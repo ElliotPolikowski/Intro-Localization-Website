@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-stone-50 text-stone-900 antialiased;
+  }
+
+  .lang-xy {
+    font-size: 18px;
+  }
+
+  /* Increase text smaller than 16px to 16px for xy locale */
+  .lang-xy .text-xs,
+  .lang-xy .text-sm,
+  .lang-xy [class*="text-["] {
+    font-size: 16px !important;
+  }
+
+  /* Ensure header text is the same size (min 16px) for both locales */
+  .lang-en nav .text-xs,
+  .lang-en nav .text-sm,
+  .lang-en nav [class*="text-["] {
+    font-size: 16px !important;
+  }
+
+  .lang-xy nav .text-xs,
+  .lang-xy nav .text-sm,
+  .lang-xy nav [class*="text-["] {
+    font-size: 16px !important;
+  }
+}
+
+.glass-card {
+  @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-xl;
+}
+
+.adventure-grid {
+  background-image: radial-gradient(circle at 2px 2px, #e5e7eb 1px, transparent 0);
+  background-size: 24px 24px;
+}

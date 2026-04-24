@@ -1,0 +1,109 @@
+{
+  "common": {
+    "backToDestinations": "返回目的地",
+    "bookThisTrip": "预订此行程",
+    "explorePackages": "浏览套餐",
+    "ourStory": "我们的导游",
+    "yearsExperience": "工作经验年数",
+    "safetyRecord": "安全记录",
+    "local": "当地",
+    "localExpertGuides": "当地专家导游",
+    "latestPackages": "最新套餐",
+    "packagesSubtitle": "户外探险活动包括冲浪、攀岩、山地自行车、激流漂流、背包旅行、皮划艇等等。我们甚至可以为您定制行程，让您拥有一次永生难忘的体验。<contactLink>给我们发消息</contactLink>，我们会尽快回复您。",
+    "ourPhilosophy": "指导原则",
+    "guideTitle": "为您指引前路",
+    "guideSubtitle": "想真正了解这里？当然要问当地人。我们的工作人员都是当地的生物学家、植物学家、地质学家、博物学家和历史学家，他们渊博的知识和对大自然的热爱将让您的假期更加丰富而难忘。所有导游都接受过严格的培训，您的安全是他们的首要考虑。",
+    "philosophyItems": [
+      "持有心肺复苏与急救证书",
+      "专家的本地知识",
+      "安全第一培训",
+      "定制体验"
+    ],
+    "readyToStart": "准备好开始了吗？",
+    "contactSubtitle": "请填写以下信息，我们会与您联系并提供所选行程的相关信息。请放心，除州或联邦法律要求外，我们<strong>绝不</strong>会将您的个人信息出售给任何人。",
+    "emailUs": "给我们发电子邮件",
+    "callUs": "给我们打电话",
+    "phoneNumber": "+86 400-820-8820",
+    "firstName": "名",
+    "lastName": "姓",
+    "emailAddress": "电子邮件",
+    "selectAdventure": "选择冒险套餐",
+    "sendInquiry": "发送询价",
+    "all": "全部",
+    "surf": "冲浪",
+    "bike": "骑自行车",
+    "climb": "爬山",
+    "days": "天",
+    "perPerson": "/人",
+    "location": "地点",
+    "duration": "持续时间",
+    "price": "价格",
+    "currencySymbol": "¥",
+    "lodging": "住宿",
+    "lodgingDetails": "努力玩乐一天后，于我们合作的优质酒店享受奢侈住宿。我们合作的酒店均以卓越的卫生与服务标准和一流配套入选。我们优先选择提供按摩浴缸等舒适设施的酒店。所有设施均免费向客人开放，所以一定要让疲惫的肌肉好好休息，迎接第二天的冒险之旅！",
+    "destinationNotFound": "未找到目的地",
+    "backToHome": "返回首页",
+    "gourmetDining": "餐食",
+    "gourmetDiningDetails": "我们的全包套餐包含每日三餐，并提供不限量的能量棒、运动饮料和瓶装水。外出探险时无需担心携带零食。我们随时乐意为您补充额外的能量！我们也会尽力满足参与者对清真食品或素食/纯素食餐的任何特殊要求。",
+    "expertLocalGuidance": "专家当地向导",
+    "expertLocalGuidanceDetails": "我们所有的探险之旅都会为您配备当地的专业向导。我们的导游都是各自探险领域的专业人士，无论是激流漂流、攀岩、山地自行车还是冲浪。我们始终将您的安全放在首位，因此我们要求所有导游都必须持有有效的心肺复苏和急救证书。我们所有的导游都配备了应急无线电和急救箱。",
+    "readyToBook": "准备好预订了吗？",
+    "secureYourSpot": "即刻锁定您的{{days}}天绝佳冒险之旅名额！",
+    "partnerLogo": "/images/energy-bar-cn.png",
+    "jacuzziLogo": "/images/jacuzzi-cn.png",
+    "compassImage": "/images/compass-cn.png",
+    "placeholderFirst": "三",
+    "placeholderLast": "张",
+    "placeholderEmail": "zhang@example.com",
+    "copyright": "© {{year}} {{company}}."
+  },
+  "nav": {
+    "destinations": "目的地",
+    "about": "关于我们",
+    "contact": "联系"
+  },
+  "company": {
+    "name": "指南针旅行社",
+    "tagline": "最佳探险假期"
+  },
+  "hero": {
+    "title": "为<highlight>冒险</highlight>精神而出发",
+    "subtitle": "指南针旅游社致力于为热爱户外的您打造全美最优质的旅行体验。在这里，您可以找到我们最新的适合冒险精神的旅行套餐。我们的旅行团提供全包服务，包括舒适的住宿、美味的餐食和当地的专业导游。"
+  },
+  "destinations": {
+    "surf": {
+      "title": "别临渴掘井！",
+      "price": 8688,
+      "activity": "冲浪",
+      "location": "加州纽波特海滩",
+      "wedgeUrl": "https://en.wikipedia.org/wiki/The_Wedge_%28surfing%29",
+      "hotelUrl": "https://www.bayshoreshotel.com/",
+      "shortDescription": "当海浪条件合适时，我们会立即联系您，安排行程。来体验连续五个清晨的冲浪时光，征服海浪！征服海浪吧！🌊",
+      "fullDescription": "南加州的夏天，还有什么比这更美好的呢？告诉我们您想找什么，我们会帮您找到并带您去那里。您想挑战强劲的大浪，还是享受轻柔的波浪呢？您想挑战靠岸处猛烈拍打的大浪，还是享受沿海线缓缓展开的温和海浪？加州应有尽有，趁夏天还没结束赶紧报名吧！您将入住位于纽波特海滩市中心的<hotelLink>湾岸酒店</hotelLink>。从哪里您可以前往马里布、盐溪以及十几个秘密景点。或者，您就也可以直接步行到当地的海滩冲浪点。",
+      "highlights": ["欢迎所有水平的人士", "夏日乐趣", "著名冲浪地点"],
+      "buttonText": "冲起来！"
+    },
+    "bike": {
+      "title": "更上一层楼",
+      "price": 6154,
+      "activity": "山地自行车",
+      "location": "科罗拉多州利德维尔",
+      "silverRushUrl": "https://www.leadvilleraceseries.com/mtb/silverrush50mtb/",
+      "cyclesOfLifeUrl": "https://www.colbikes.com/",
+      "shortDescription": "美丽的风景，加上陡峭的山坡和快速的步道，为骑行提供了绝佳的体验。请务必佩戴头盔并穿着合适的骑行服，以确保安全与舒适。💪",
+      "fullDescription": "无论是新手还是经验丰富的山地自行车骑行者，都会在落基山脉起伏的地形中遇到挑战。作为著名的<silverRushLink>Silver Rush Race</silverRushLink>举办地，莱德维尔环绕落基山脉蜿蜒延伸，提供超过80公里的技术性森林小路与富有挑战性的临到爬坡。骑行途中，您会多次遇到绝佳景点，让双眼放松的同时，也给辛苦发力的双腿来个短暂休息。落基山脉是美国西南部的山地自行车中心，如果您想寻找一群志同道合的骑行者，不妨去<cyclesOfLifeLink>Cycles of Life</cyclesOfLifeLink>自行车店逛逛。如果您想参加正式赛事，Leadville Silver Rush（莱德维尔Silver Rush）将于 2026 年 7 月 12 日举行。",
+      "highlights": ["技术性", "美丽的景色", "落基山脉"],
+      "buttonText": "出发！"
+    },
+    "climb": {
+      "title": "登高望远",
+      "price": 6878,
+      "activity": "攀岩",
+      "location": "怀俄明州魔鬼塔",
+      "shortDescription": "攀登雄伟的魔鬼塔悬崖，这是美国第一个国家纪念碑，也是二十多个美洲原住民部落的圣地。恐高？别这样啦🐶",
+      "fullDescription": "在怀俄明的攀岩圣地魔鬼塔，开启您的攀登之旅。这座高达265米的巨型岩柱，为从入门到高手的攀岩者提供了200多条既有趣又具挑战性的线路。事实上，1994年，一名6岁男孩甚至征服了这座塔！墙壁上的裂缝为您提供多样的攀登线路，既能检验攀岩技巧，也能激发创造性的路线选择。魔鬼塔于 1906 年被指定为美国第一座国家纪念地。如今，该公园每年接待约 45 万名游客，其中 5000 名是登山者。保护这片地标性区域是我们的首要任务，所以我们在环境中不会留下任何痕迹。",
+      "highlights": ["200多条路线：从入门到高级", "历史地标", "文化象征"],
+      "buttonText": "攀起来！"
+    }
+  }
+}
